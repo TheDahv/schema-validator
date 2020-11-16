@@ -1,0 +1,3 @@
+[submodule "lib/schemarama"]
+	path = lib/schemarama
+	url = git@github.com:google/schemarama.git
